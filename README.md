@@ -1,7 +1,7 @@
-# 1ELE713_SEM5_Assignm1_TF-BlockDiag_Lista1
-Lista com 2 exercícios sobre encontrar a função de transferência de um sistema e sobre redução de diagrama de blocos
+# 1ELE713_SEM6_Assignm1_StateSpace_Lista1
+Lista com 3 exercícios sobre a representação no espaço de estados de um sistema dinâmico
 
-Resolva a lista no arquivo 1ELE713-Sem5-Assignm1-TF-BlockDiag-Lista1.pdf
+Resolva a lista no arquivo 1ELE713-Sem6-Assignm1-StateSpace-Lista1.pdf
 
 Observações:
 
